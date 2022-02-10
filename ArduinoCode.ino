@@ -167,10 +167,3 @@ else
     return true;
   }
 }
-
-
-//Moteur Base LIMITE 200
-//Moteur Levé 1 LIMITE 300
-//Moteur levé 2 LIMITE 200
-//Moteur Levé Pince LIMITE 100
-//Moteur Pince LIMITE 200
